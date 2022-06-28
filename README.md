@@ -10,3 +10,6 @@ Steps:
 5) run python manage.py makemigrations
 6) run python manage.py migrate
 7) run python manage.py runserver
+
+
+API link: https://fasal-intern.herokuapp.com/
